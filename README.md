@@ -1,2 +1,0 @@
-# syp
-Pempek SYP
